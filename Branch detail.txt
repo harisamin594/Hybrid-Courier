@@ -1,0 +1,18 @@
+-------------------------------
+Branch Details: 
+Branch ID: 703
+Branch Area: FC College 
+Branch City: Lahore
+Branch Timing: 9 AM to 9 PM
+Branch Manager: Gadhaun Aslam
+Branch Phone Number: 090078601
+-------------------------------
+
+-------------------------------Branch Details: 
+Branch ID: 549
+Branch Area: y block dha
+Branch City: lahore
+Branch Timing: 9 to 5
+Branch Manager: haris
+Branch Phone Number: 12345
+-------------------------------

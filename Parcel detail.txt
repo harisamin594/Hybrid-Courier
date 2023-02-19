@@ -1,0 +1,29 @@
+-------------------------------
+Parcel Details: 
+Parcel ID: 1807
+Parcel Type: Hadayat Ki Kitaab
+Parcel Weight: 500
+Delivery Type: Fast Delivery
+Sender Details: 
+Sender Name: Haris Amin
+Sender Phone Number: 03201414840
+Sender Address: Statelife 
+Receiver Details: 
+Receiver Name: Muaaz Raza
+Receiver Phone Number: 03134641219
+Receiver Address: Askari
+-------------------------------
+Parcel Details: 
+Parcel ID: 2832
+Parcel Type: Watch
+Parcel Weight: 500
+Delivery Type: Normal Delivery
+Sender Details: 
+Sender Name: joey
+Sender Phone Number: 123
+Sender Address: lahore
+Receiver Details: 
+Receiver Name: chandler
+Receiver Phone Number: 345
+Receiver Address: karachi
+-------------------------------

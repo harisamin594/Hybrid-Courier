@@ -1,0 +1,16 @@
+-------------------------------
+Employee Details: 
+Employee Name: Usman Ghani
+Employee ID: 437
+Employee Phone Number: 111244622
+Employee Address: S Block Room 319
+Employee Category: Mid-Level
+-------------------------------
+
+-------------------------------Employee Details: 
+Employee Name: hammad
+Employee ID: 958
+Employee Phone Number: 5555
+Employee Address: JT
+Employee Category: Manager
+-------------------------------
